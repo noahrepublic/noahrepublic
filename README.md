@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahrepublic&label=Profile%20views&color=0e75b6&style=flat" alt="noahrepublic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahrepublic" alt="noahrepublic" /></a> </p>
-
-- 🔭 I’m currently working on **CPP Progress**
-
-- 📫 How to reach me **discord: noahrepublic#4323**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
