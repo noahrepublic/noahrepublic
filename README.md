@@ -6,3 +6,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahrepublic&show_icons=true&locale=en&layout=compact" alt="noahrepublic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahrepublic&" alt="noahrepublic" /></p>
+
+
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
