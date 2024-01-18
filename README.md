@@ -5,5 +5,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahrepublic&show_icons=true&locale=en&layout=compact" alt="noahrepublic" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=noahrepublic)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=noahrepublic)https://streak-stats.demolab.com?user=noahrepublic)
+[![GitHub Streak](https://streak-stats.demolab.com?user=noahrepublic)](https://streak-stats.demolab.com?user=noahrepublic)
